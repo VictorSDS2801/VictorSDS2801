@@ -3,7 +3,7 @@
 **`Desenvolvedor Junior`**
 
 Me chamo Victor Diogo Santos de Araujo, tenho 14 anos e sou natural de Aracaju(SE).
-Estou cursando o 9 ano do ensino fundamental e desejo fazer ciência da computação na UFS
+Estou cursando o 9 ano do ensino fundamental e desejo fazer ciência da computação na <abbr title="Universidade Federal de Sergipe">UFS</abbr>
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
