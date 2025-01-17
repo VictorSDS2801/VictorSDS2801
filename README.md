@@ -6,8 +6,9 @@ Me chamo Victor Diogo Santos de Araujo, tenho 14 anos e sou natural de Aracaju(S
 Estou cursando o 9 ano do ensino fundamental e desejo fazer ciência da computação na <abbr title="Universidade Federal de Sergipe">UFS</abbr>
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt='Victor-CSS' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 </div>
 
 <div> 
