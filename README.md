@@ -11,7 +11,6 @@ Estou cursando o 1 ano do ensino médio e desejo fazer Engenharia de Software na
     <img align="center" alt='Victor-CSS' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
     <img align="center" alt='Victor-JS' height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
     <img align="center" alt='Victor-JS' height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/>
-    <img align="center" alt='Victor-JS' height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/>
 </div>
 
 <div> 
