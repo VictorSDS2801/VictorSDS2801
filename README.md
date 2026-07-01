@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! My name is Victor and I'm a Junior Developer, from Aracaju-SE</h4>
+<h4 align="left">Hi👋! My name is Victor and I'm a Junior Developer, from Aracaju-SE</h4>
 
 ###
 
